@@ -10,9 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "faker": "^5.2.0",
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-contacts": "^6.0.4"
+    "react-native-contacts": "^6.0.4",
+    "recyclerlistview": "^3.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
